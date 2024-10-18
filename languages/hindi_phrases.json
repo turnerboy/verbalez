@@ -1,0 +1,414 @@
+{
+    "Greetings and Introductions": [
+        {
+            "English": "Hello / Hi",
+            "Hindi": "नमस्ते / हेलो",
+            "Transliteration": "Namaste / Hello"
+        },
+        {
+            "English": "Good morning",
+            "Hindi": "सुप्रभात",
+            "Transliteration": "Suprabhat"
+        },
+        {
+            "English": "Good afternoon",
+            "Hindi": "शुभ दोपहर",
+            "Transliteration": "Shubh Dopahar"
+        },
+        {
+            "English": "Good evening",
+            "Hindi": "शुभ संध्या",
+            "Transliteration": "Shubh Sandhya"
+        },
+        {
+            "English": "Goodbye",
+            "Hindi": "अलविदा / फिर मिलेंगे",
+            "Transliteration": "Alvida / Phir Milenge"
+        },
+        {
+            "English": "See you later",
+            "Hindi": "फिर मिलेंगे",
+            "Transliteration": "Phir Milenge"
+        },
+        {
+            "English": "My name is...",
+            "Hindi": "मेरा नाम ... है",
+            "Transliteration": "Mera naam ... hai"
+        },
+        {
+            "English": "What's your name?",
+            "Hindi": "आपका नाम क्या है?",
+            "Transliteration": "Aapka naam kya hai?"
+        },
+        {
+            "English": "Nice to meet you",
+            "Hindi": "आप से मिलकर खुशी हुई",
+            "Transliteration": "Aap se milkar khushi hui"
+        }
+    ],
+    "Common Courtesies": [
+        {
+            "English": "Please",
+            "Hindi": "कृपया",
+            "Transliteration": "Kripaya"
+        },
+        {
+            "English": "Thank you",
+            "Hindi": "धन्यवाद",
+            "Transliteration": "Dhanyavaad"
+        },
+        {
+            "English": "You're welcome",
+            "Hindi": "आपका स्वागत है",
+            "Transliteration": "Aapka swagat hai"
+        },
+        {
+            "English": "Excuse me",
+            "Hindi": "क्षमा कीजिए / माफ़ कीजिए",
+            "Transliteration": "Kshama kijiye / Maaf kijiye"
+        },
+        {
+            "English": "I'm sorry",
+            "Hindi": "मुझे खेद है / माफ़ कीजिए",
+            "Transliteration": "Mujhe khed hai / Maaf kijiye"
+        },
+        {
+            "English": "No problem",
+            "Hindi": "कोई बात नहीं",
+            "Transliteration": "Koi baat nahin"
+        }
+    ],
+    "Basic Questions and Responses": [
+        {
+            "English": "How are you?",
+            "Hindi": "आप कैसे हैं?",
+            "Transliteration": "Aap kaise hain?"
+        },
+        {
+            "English": "I'm fine, thank you. And you?",
+            "Hindi": "मैं ठीक हूँ, धन्यवाद। और आप?",
+            "Transliteration": "Main theek hoon, dhanyavaad. Aur aap?"
+        },
+        {
+            "English": "Do you speak English?",
+            "Hindi": "क्या आप अंग्रेज़ी बोलते हैं?",
+            "Transliteration": "Kya aap angrezi bolte hain?"
+        },
+        {
+            "English": "I don't understand",
+            "Hindi": "मैं समझा नहीं",
+            "Transliteration": "Main samjha nahin"
+        },
+        {
+            "English": "Can you repeat that?",
+            "Hindi": "क्या आप इसे दोहरा सकते हैं?",
+            "Transliteration": "Kya aap ise dohra sakte hain?"
+        },
+        {
+            "English": "What does this mean?",
+            "Hindi": "इसका क्या मतलब है?",
+            "Transliteration": "Iska kya matlab hai?"
+        }
+    ],
+    "Everyday Phrases": [
+        {
+            "English": "Yes",
+            "Hindi": "हाँ",
+            "Transliteration": "Haan"
+        },
+        {
+            "English": "No",
+            "Hindi": "नहीं",
+            "Transliteration": "Nahin"
+        },
+        {
+            "English": "Maybe",
+            "Hindi": "शायद",
+            "Transliteration": "Shayad"
+        },
+        {
+            "English": "I like it",
+            "Hindi": "मुझे यह पसंद है",
+            "Transliteration": "Mujhe yeh pasand hai"
+        },
+        {
+            "English": "I don't like it",
+            "Hindi": "मुझे यह पसंद नहीं है",
+            "Transliteration": "Mujhe yeh pasand nahin hai"
+        },
+        {
+            "English": "Can you help me?",
+            "Hindi": "क्या आप मेरी मदद कर सकते हैं?",
+            "Transliteration": "Kya aap meri madad kar sakte hain?"
+        },
+        {
+            "English": "Where is the restroom?",
+            "Hindi": "शौचालय कहाँ है?",
+            "Transliteration": "Shauchalay kahaan hai?"
+        },
+        {
+            "English": "How much does this cost?",
+            "Hindi": "यह कितने का है?",
+            "Transliteration": "Yeh kitne ka hai?"
+        },
+        {
+            "English": "I'd like to buy this (male speaker)",
+            "Hindi": "मैं इसे खरीदना चाहता हूँ",
+            "Transliteration": "Main ise kharidna chahta hoon"
+        },
+        {
+            "English": "I'd like to buy this (female speaker)",
+            "Hindi": "मैं इसे खरीदना चाहती हूँ",
+            "Transliteration": "Main ise kharidna chahti hoon"
+        }
+    ],
+    "Expressing Needs and Feelings": [
+        {
+            "English": "I'm hungry",
+            "Hindi": "मुझे भूख लगी है",
+            "Transliteration": "Mujhe bhookh lagi hai"
+        },
+        {
+            "English": "I'm thirsty",
+            "Hindi": "मुझे प्यास लगी है",
+            "Transliteration": "Mujhe pyaas lagi hai"
+        },
+        {
+            "English": "I'm tired (male speaker)",
+            "Hindi": "मैं थका हुआ हूँ",
+            "Transliteration": "Main thaka hua hoon"
+        },
+        {
+            "English": "I'm tired (female speaker)",
+            "Hindi": "मैं थकी हुई हूँ",
+            "Transliteration": "Main thaki hui hoon"
+        },
+        {
+            "English": "I need...",
+            "Hindi": "मुझे ... चाहिए",
+            "Transliteration": "Mujhe ... chahiye"
+        },
+        {
+            "English": "I want... (male speaker)",
+            "Hindi": "मैं ... चाहता हूँ",
+            "Transliteration": "Main ... chahta hoon"
+        },
+        {
+            "English": "I want... (female speaker)",
+            "Hindi": "मैं ... चाहती हूँ",
+            "Transliteration": "Main ... chahti hoon"
+        }
+    ],
+    "Directions and Locations": [
+        {
+            "English": "Where is...?",
+            "Hindi": "... कहाँ है?",
+            "Transliteration": "... kahaan hai?"
+        },
+        {
+            "English": "Left",
+            "Hindi": "बाएँ",
+            "Transliteration": "Baayein"
+        },
+        {
+            "English": "Right",
+            "Hindi": "दाएँ",
+            "Transliteration": "Daayein"
+        },
+        {
+            "English": "Straight ahead",
+            "Hindi": "सीधा आगे",
+            "Transliteration": "Seedha aage"
+        },
+        {
+            "English": "Near",
+            "Hindi": "पास में",
+            "Transliteration": "Paas mein"
+        },
+        {
+            "English": "Far",
+            "Hindi": "दूर",
+            "Transliteration": "Door"
+        }
+    ],
+    "Numbers and Time": [
+        {
+            "English": "One",
+            "Hindi": "एक",
+            "Transliteration": "Ek"
+        },
+        {
+            "English": "Two",
+            "Hindi": "दो",
+            "Transliteration": "Do"
+        },
+        {
+            "English": "Three",
+            "Hindi": "तीन",
+            "Transliteration": "Teen"
+        },
+        {
+            "English": "Four",
+            "Hindi": "चार",
+            "Transliteration": "Chaar"
+        },
+        {
+            "English": "Five",
+            "Hindi": "पाँच",
+            "Transliteration": "Paanch"
+        },
+        {
+            "English": "Six",
+            "Hindi": "छह",
+            "Transliteration": "Chhah"
+        },
+        {
+            "English": "Seven",
+            "Hindi": "सात",
+            "Transliteration": "Saat"
+        },
+        {
+            "English": "Eight",
+            "Hindi": "आठ",
+            "Transliteration": "Aath"
+        },
+        {
+            "English": "Nine",
+            "Hindi": "नौ",
+            "Transliteration": "Nau"
+        },
+        {
+            "English": "Ten",
+            "Hindi": "दस",
+            "Transliteration": "Das"
+        },
+        {
+            "English": "What time is it?",
+            "Hindi": "समय क्या हुआ है?",
+            "Transliteration": "Samay kya hua hai?"
+        },
+        {
+            "English": "Today",
+            "Hindi": "आज",
+            "Transliteration": "Aaj"
+        },
+        {
+            "English": "Tomorrow",
+            "Hindi": "कल",
+            "Transliteration": "Kal"
+        },
+        {
+            "English": "Yesterday",
+            "Hindi": "कल",
+            "Transliteration": "Kal"
+        }
+    ],
+    "Emergency Phrases": [
+        {
+            "English": "Help!",
+            "Hindi": "मदद!",
+            "Transliteration": "Madad!"
+        },
+        {
+            "English": "Call the police!",
+            "Hindi": "पुलिस को बुलाइए!",
+            "Transliteration": "Police ko bulaaiye!"
+        },
+        {
+            "English": "I need a doctor",
+            "Hindi": "मुझे डॉक्टर की ज़रूरत है",
+            "Transliteration": "Mujhe doctor ki zaroorat hai"
+        }
+    ],
+    "Social Phrases": [
+        {
+            "English": "Congratulations!",
+            "Hindi": "बधाई हो!",
+            "Transliteration": "Badhai ho!"
+        },
+        {
+            "English": "Happy Birthday!",
+            "Hindi": "जन्मदिन मुबारक!",
+            "Transliteration": "Janmadin mubarak!"
+        },
+        {
+            "English": "Good luck!",
+            "Hindi": "शुभकामनाएँ!",
+            "Transliteration": "Shubhkamnayen!"
+        },
+        {
+            "English": "Take care",
+            "Hindi": "ध्यान रखना",
+            "Transliteration": "Dhyaan rakhna"
+        }
+    ],
+    "Making Plans": [
+        {
+            "English": "What are you doing today?",
+            "Hindi": "आप आज क्या कर रहे हैं?",
+            "Transliteration": "Aap aaj kya kar rahe hain?"
+        },
+        {
+            "English": "Do you want to...?",
+            "Hindi": "क्या आप ... करना चाहेंगे?",
+            "Transliteration": "Kya aap ... karna chahenge?"
+        },
+        {
+            "English": "Let's go to...",
+            "Hindi": "चलिए ... चलते हैं",
+            "Transliteration": "Chaliye ... chalte hain"
+        }
+    ],
+    "Flirting": [
+        {
+            "English": "You look beautiful (to a woman)",
+            "Hindi": "आप बहुत सुंदर लग रही हैं",
+            "Transliteration": "Aap bahut sundar lag rahi hain"
+        },
+        {
+            "English": "You look handsome (to a man)",
+            "Hindi": "आप बहुत हैंडसम लग रहे हैं",
+            "Transliteration": "Aap bahut handsome lag rahe hain"
+        },
+        {
+            "English": "I love your smile",
+            "Hindi": "मुझे आपकी मुस्कान पसंद है",
+            "Transliteration": "Mujhe aapki muskaan pasand hai"
+        },
+        {
+            "English": "Can I buy you a drink? (male speaker)",
+            "Hindi": "क्या मैं आपको एक पेय पेश कर सकता हूँ?",
+            "Transliteration": "Kya main aapko ek pey pesh kar sakta hoon?"
+        },
+        {
+            "English": "Can I buy you a drink? (female speaker)",
+            "Hindi": "क्या मैं आपको एक पेय पेश कर सकती हूँ?",
+            "Transliteration": "Kya main aapko ek pey pesh kar sakti hoon?"
+        },
+        {
+            "English": "Do you want to grab coffee sometime?",
+            "Hindi": "क्या आप कभी कॉफी पीना चाहेंगे?",
+            "Transliteration": "Kya aap kabhi coffee peena chahenge?"
+        },
+        {
+            "English": "I really enjoy talking with you",
+            "Hindi": "मुझे आपसे बात करके बहुत अच्छा लगता है",
+            "Transliteration": "Mujhe aapse baat karke bahut accha lagta hai"
+        },
+        {
+            "English": "You have beautiful eyes",
+            "Hindi": "आपकी आँखें बहुत सुंदर हैं",
+            "Transliteration": "Aapki aankhen bahut sundar hain"
+        },
+        {
+            "English": "You make me laugh",
+            "Hindi": "आप मुझे हँसाते हैं",
+            "Transliteration": "Aap mujhe hansaate hain"
+        },
+        {
+            "English": "Can I get your number?",
+            "Hindi": "क्या मुझे आपका नंबर मिल सकता है?",
+            "Transliteration": "Kya mujhe aapka number mil sakta hai?"
+        }
+    ]
+}

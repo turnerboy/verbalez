@@ -1,0 +1,676 @@
+{
+    "Greetings and Introductions": [
+        {
+            "English": "Hello / Hi",
+            "Spanish": "Hola",
+            "Transliteration": "Oh-la"
+        },
+        {
+            "English": "Good morning",
+            "Spanish": "Buenos días",
+            "Transliteration": "Bweh-nos dee-ahs"
+        },
+        {
+            "English": "Good afternoon",
+            "Spanish": "Buenas tardes",
+            "Transliteration": "Bweh-nas tar-des"
+        },
+        {
+            "English": "Good evening",
+            "Spanish": "Buenas noches",
+            "Transliteration": "Bweh-nas no-ches"
+        },
+        {
+            "English": "How are you?",
+            "Spanish": "¿Cómo estás?",
+            "Transliteration": "Koh-moh es-tas"
+        },
+        {
+            "English": "I'm fine, thank you",
+            "Spanish": "Estoy bien, gracias",
+            "Transliteration": "Es-toy bee-en, grah-see-as"
+        },
+        {
+            "English": "What is your name?",
+            "Spanish": "¿Cómo te llamas?",
+            "Transliteration": "Koh-moh te yah-mas"
+        },
+        {
+            "English": "My name is...",
+            "Spanish": "Me llamo...",
+            "Transliteration": "Meh yah-moh..."
+        },
+        {
+            "English": "Nice to meet you",
+            "Spanish": "Mucho gusto",
+            "Transliteration": "Moo-choh goo-stoh"
+        },
+        {
+            "English": "Please",
+            "Spanish": "Por favor",
+            "Transliteration": "Por fah-vor"
+        },
+        {
+            "English": "Thank you",
+            "Spanish": "Gracias",
+            "Transliteration": "Grah-see-as"
+        },
+        {
+            "English": "You're welcome",
+            "Spanish": "De nada",
+            "Transliteration": "Deh nah-dah"
+        },
+        {
+            "English": "Yes",
+            "Spanish": "Sí",
+            "Transliteration": "See"
+        },
+        {
+            "English": "No",
+            "Spanish": "No",
+            "Transliteration": "No"
+        },
+        {
+            "English": "Excuse me",
+            "Spanish": "Perdón",
+            "Transliteration": "Per-dohn"
+        },
+        {
+            "English": "I'm sorry",
+            "Spanish": "Lo siento",
+            "Transliteration": "Loh see-en-toh"
+        },
+        {
+            "English": "Goodbye",
+            "Spanish": "Adiós",
+            "Transliteration": "Ah-dee-ohs"
+        },
+        {
+            "English": "See you later",
+            "Spanish": "Hasta luego",
+            "Transliteration": "Ah-stah loo-eh-goh"
+        }
+    ],
+    "Numbers and Counting": [
+        {
+            "English": "One",
+            "Spanish": "Uno",
+            "Transliteration": "Oo-noh"
+        },
+        {
+            "English": "Two",
+            "Spanish": "Dos",
+            "Transliteration": "Dos"
+        },
+        {
+            "English": "Three",
+            "Spanish": "Tres",
+            "Transliteration": "Tres"
+        },
+        {
+            "English": "Four",
+            "Spanish": "Cuatro",
+            "Transliteration": "Kwah-troh"
+        },
+        {
+            "English": "Five",
+            "Spanish": "Cinco",
+            "Transliteration": "Seen-koh"
+        },
+        {
+            "English": "Six",
+            "Spanish": "Seis",
+            "Transliteration": "Seis"
+        },
+        {
+            "English": "Seven",
+            "Spanish": "Siete",
+            "Transliteration": "See-eh-teh"
+        },
+        {
+            "English": "Eight",
+            "Spanish": "Ocho",
+            "Transliteration": "Oh-choh"
+        },
+        {
+            "English": "Nine",
+            "Spanish": "Nueve",
+            "Transliteration": "Nweh-veh"
+        },
+        {
+            "English": "Ten",
+            "Spanish": "Diez",
+            "Transliteration": "Dee-ehs"
+        }
+    ],
+    "Days and Time": [
+        {
+            "English": "Monday",
+            "Spanish": "Lunes",
+            "Transliteration": "Loo-nes"
+        },
+        {
+            "English": "Tuesday",
+            "Spanish": "Martes",
+            "Transliteration": "Mar-tes"
+        },
+        {
+            "English": "Wednesday",
+            "Spanish": "Miércoles",
+            "Transliteration": "Mee-er-co-les"
+        },
+        {
+            "English": "Thursday",
+            "Spanish": "Jueves",
+            "Transliteration": "Hweh-ves"
+        },
+        {
+            "English": "Friday",
+            "Spanish": "Viernes",
+            "Transliteration": "Bee-er-nes"
+        },
+        {
+            "English": "Saturday",
+            "Spanish": "Sábado",
+            "Transliteration": "Sah-bah-doh"
+        },
+        {
+            "English": "Sunday",
+            "Spanish": "Domingo",
+            "Transliteration": "Doh-ming-oh"
+        },
+        {
+            "English": "Today",
+            "Spanish": "Hoy",
+            "Transliteration": "Oy"
+        },
+        {
+            "English": "Tomorrow",
+            "Spanish": "Mañana",
+            "Transliteration": "Mah-nyah-nah"
+        },
+        {
+            "English": "Yesterday",
+            "Spanish": "Ayer",
+            "Transliteration": "Ah-yer"
+        },
+        {
+            "English": "Now",
+            "Spanish": "Ahora",
+            "Transliteration": "Ah-oh-rah"
+        },
+        {
+            "English": "Later",
+            "Spanish": "Más tarde",
+            "Transliteration": "Mas tar-deh"
+        }
+    ],
+    "Directions and Places": [
+        {
+            "English": "Where is...?",
+            "Spanish": "¿Dónde está...?",
+            "Transliteration": "Don-deh es-tah"
+        },
+        {
+            "English": "Left",
+            "Spanish": "Izquierda",
+            "Transliteration": "Ees-kee-er-dah"
+        },
+        {
+            "English": "Right",
+            "Spanish": "Derecha",
+            "Transliteration": "Deh-reh-cha"
+        },
+        {
+            "English": "Straight ahead",
+            "Spanish": "Todo recto",
+            "Transliteration": "Toh-doh rek-toh"
+        },
+        {
+            "English": "Near",
+            "Spanish": "Cerca",
+            "Transliteration": "Ser-kah"
+        },
+        {
+            "English": "Far",
+            "Spanish": "Lejos",
+            "Transliteration": "Leh-hos"
+        },
+        {
+            "English": "Hospital",
+            "Spanish": "Hospital",
+            "Transliteration": "Os-pee-tal"
+        },
+        {
+            "English": "Police station",
+            "Spanish": "Estación de policía",
+            "Transliteration": "Es-tah-see-on deh poh-lee-see-ah"
+        },
+        {
+            "English": "Bank",
+            "Spanish": "Banco",
+            "Transliteration": "Ban-koh"
+        },
+        {
+            "English": "Restaurant",
+            "Spanish": "Restaurante",
+            "Transliteration": "Res-tau-ran-teh"
+        }
+    ],
+    "Food and Dining": [
+        {
+            "English": "Breakfast",
+            "Spanish": "Desayuno",
+            "Transliteration": "Deh-sah-yoo-noh"
+        },
+        {
+            "English": "Lunch",
+            "Spanish": "Almuerzo",
+            "Transliteration": "Al-mwer-soh"
+        },
+        {
+            "English": "Dinner",
+            "Spanish": "Cena",
+            "Transliteration": "Seh-nah"
+        },
+        {
+            "English": "Water",
+            "Spanish": "Agua",
+            "Transliteration": "Ah-gwah"
+        },
+        {
+            "English": "Tea",
+            "Spanish": "Té",
+            "Transliteration": "Teh"
+        },
+        {
+            "English": "Coffee",
+            "Spanish": "Café",
+            "Transliteration": "Kah-feh"
+        },
+        {
+            "English": "I am vegetarian",
+            "Spanish": "Soy vegetariano/a",
+            "Transliteration": "Soy ve-heh-tah-ree-ah-noh/nah"
+        },
+        {
+            "English": "The bill, please",
+            "Spanish": "La cuenta, por favor",
+            "Transliteration": "Lah kwen-tah, por fah-vor"
+        },
+        {
+            "English": "Delicious",
+            "Spanish": "Delicioso",
+            "Transliteration": "Deh-lee-see-oh-soh"
+        },
+        {
+            "English": "Cheers!",
+            "Spanish": "¡Salud!",
+            "Transliteration": "Sah-lood"
+        }
+    ],
+    "Shopping and Money": [
+        {
+            "English": "How much is this?",
+            "Spanish": "¿Cuánto cuesta esto?",
+            "Transliteration": "Kwan-toh kwes-tah es-toh"
+        },
+        {
+            "English": "Expensive",
+            "Spanish": "Caro",
+            "Transliteration": "Kah-roh"
+        },
+        {
+            "English": "Cheap",
+            "Spanish": "Barato",
+            "Transliteration": "Bah-rah-toh"
+        },
+        {
+            "English": "I would like to buy...",
+            "Spanish": "Me gustaría comprar...",
+            "Transliteration": "Meh goo-stah-ree-ah kom-prar"
+        },
+        {
+            "English": "Do you accept credit cards?",
+            "Spanish": "¿Acepta tarjetas de crédito?",
+            "Transliteration": "Ah-sep-tah tar-heh-tas deh kre-dee-toh"
+        },
+        {
+            "English": "Money",
+            "Spanish": "Dinero",
+            "Transliteration": "Dee-neh-roh"
+        },
+        {
+            "English": "Where is an ATM?",
+            "Spanish": "¿Dónde hay un cajero automático?",
+            "Transliteration": "Don-deh ay oon kah-heh-roh au-toh-mah-tee-koh"
+        },
+        {
+            "English": "Receipt",
+            "Spanish": "Recibo",
+            "Transliteration": "Reh-see-boh"
+        },
+        {
+            "English": "Change",
+            "Spanish": "Cambio",
+            "Transliteration": "Kam-bee-oh"
+        },
+        {
+            "English": "I am just looking",
+            "Spanish": "Solo estoy mirando",
+            "Transliteration": "So-loh es-toy mee-rahn-doh"
+        }
+    ],
+    "Emergency and Health": [
+        {
+            "English": "Help!",
+            "Spanish": "¡Ayuda!",
+            "Transliteration": "Ah-yoo-dah"
+        },
+        {
+            "English": "Call the police",
+            "Spanish": "Llame a la policía",
+            "Transliteration": "Yah-meh ah lah poh-lee-see-ah"
+        },
+        {
+            "English": "I need a doctor",
+            "Spanish": "Necesito un médico",
+            "Transliteration": "Neh-seh-see-toh oon meh-dee-koh"
+        },
+        {
+            "English": "I'm sick",
+            "Spanish": "Estoy enfermo/a",
+            "Transliteration": "Es-toy en-fer-moh/mah"
+        },
+        {
+            "English": "Where is the hospital?",
+            "Spanish": "¿Dónde está el hospital?",
+            "Transliteration": "Don-deh es-tah el os-pee-tal"
+        },
+        {
+            "English": "It's an emergency",
+            "Spanish": "Es una emergencia",
+            "Transliteration": "Es oo-nah eh-mer-hen-see-ah"
+        },
+        {
+            "English": "I am lost",
+            "Spanish": "Estoy perdido/a",
+            "Transliteration": "Es-toy per-dee-doh/dah"
+        },
+        {
+            "English": "I need help",
+            "Spanish": "Necesito ayuda",
+            "Transliteration": "Neh-seh-see-toh ah-yoo-dah"
+        },
+        {
+            "English": "Fire!",
+            "Spanish": "¡Fuego!",
+            "Transliteration": "Fweh-goh"
+        },
+        {
+            "English": "Stop!",
+            "Spanish": "¡Alto!",
+            "Transliteration": "Al-toh"
+        }
+    ],
+    "Basic Conversations": [
+        {
+            "English": "Do you speak English?",
+            "Spanish": "¿Habla inglés?",
+            "Transliteration": "Ah-blah een-glehs"
+        },
+        {
+            "English": "I don't understand",
+            "Spanish": "No entiendo",
+            "Transliteration": "No en-tee-en-doh"
+        },
+        {
+            "English": "Please speak slowly",
+            "Spanish": "Por favor, hable despacio",
+            "Transliteration": "Por fah-vor, ah-bleh deh-spah-see-oh"
+        },
+        {
+            "English": "Can you repeat that?",
+            "Spanish": "¿Puede repetir eso?",
+            "Transliteration": "Pweh-deh reh-peh-teer eh-soh"
+        },
+        {
+            "English": "What does this mean?",
+            "Spanish": "¿Qué significa esto?",
+            "Transliteration": "Keh sig-nee-fee-kah es-toh"
+        },
+        {
+            "English": "I like it",
+            "Spanish": "Me gusta",
+            "Transliteration": "Meh goo-stah"
+        },
+        {
+            "English": "I don't like it",
+            "Spanish": "No me gusta",
+            "Transliteration": "No meh goo-stah"
+        },
+        {
+            "English": "I'm sorry",
+            "Spanish": "Lo siento",
+            "Transliteration": "Loh see-en-toh"
+        },
+        {
+            "English": "What time is it?",
+            "Spanish": "¿Qué hora es?",
+            "Transliteration": "Keh oh-rah es"
+        },
+        {
+            "English": "Where are you from?",
+            "Spanish": "¿De dónde eres?",
+            "Transliteration": "Deh don-deh eh-res"
+        }
+    ],
+    "Transportation": [
+        {
+            "English": "Where is the bus station?",
+            "Spanish": "¿Dónde está la estación de autobuses?",
+            "Transliteration": "Don-deh es-tah lah es-tah-see-on deh au-toh-boo-sehs"
+        },
+        {
+            "English": "I need a taxi",
+            "Spanish": "Necesito un taxi",
+            "Transliteration": "Neh-seh-see-toh oon tak-see"
+        },
+        {
+            "English": "How much is a ticket to...?",
+            "Spanish": "¿Cuánto cuesta un billete a...?",
+            "Transliteration": "Kwan-toh kwes-tah oon bee-yeh-teh ah"
+        },
+        {
+            "English": "Where does this train go?",
+            "Spanish": "¿A dónde va este tren?",
+            "Transliteration": "Ah don-deh vah es-teh tren"
+        },
+        {
+            "English": "I want to go to...",
+            "Spanish": "Quiero ir a...",
+            "Transliteration": "Kyeh-roh eer ah"
+        },
+        {
+            "English": "When does it arrive?",
+            "Spanish": "¿Cuándo llega?",
+            "Transliteration": "Kwan-doh yeh-gah"
+        },
+        {
+            "English": "Departure",
+            "Spanish": "Salida",
+            "Transliteration": "Sah-lee-dah"
+        },
+        {
+            "English": "Arrival",
+            "Spanish": "Llegada",
+            "Transliteration": "Yeh-gah-dah"
+        },
+        {
+            "English": "Ticket",
+            "Spanish": "Billete",
+            "Transliteration": "Bee-yeh-teh"
+        },
+        {
+            "English": "Platform",
+            "Spanish": "Andén",
+            "Transliteration": "An-den"
+        }
+    ],
+    "Accommodation": [
+        {
+            "English": "Do you have any vacancies?",
+            "Spanish": "¿Tiene habitaciones disponibles?",
+            "Transliteration": "Tyeh-neh ah-bee-tah-see-oh-nes dis-poh-nee-blehs"
+        },
+        {
+            "English": "I have a reservation",
+            "Spanish": "Tengo una reserva",
+            "Transliteration": "Ten-goh oo-nah reh-ser-bah"
+        },
+        {
+            "English": "How much is a room per night?",
+            "Spanish": "¿Cuánto cuesta una habitación por noche?",
+            "Transliteration": "Kwan-toh kwes-tah oo-nah ah-bee-tah-see-on por noh-cheh"
+        },
+        {
+            "English": "Can I see the room?",
+            "Spanish": "¿Puedo ver la habitación?",
+            "Transliteration": "Pweh-doh ver lah ah-bee-tah-see-on"
+        },
+        {
+            "English": "Key",
+            "Spanish": "Llave",
+            "Transliteration": "Yah-veh"
+        },
+        {
+            "English": "Bathroom",
+            "Spanish": "Baño",
+            "Transliteration": "Bah-nyoh"
+        },
+        {
+            "English": "Is breakfast included?",
+            "Spanish": "¿Está incluido el desayuno?",
+            "Transliteration": "Es-tah een-cloo-ee-doh el deh-sah-yoo-noh"
+        },
+        {
+            "English": "I will stay for ... nights",
+            "Spanish": "Me quedaré ... noches",
+            "Transliteration": "Meh keh-dah-reh ... noh-ches"
+        },
+        {
+            "English": "Check-out time",
+            "Spanish": "Hora de salida",
+            "Transliteration": "Oh-rah deh sah-lee-dah"
+        },
+        {
+            "English": "Can I have extra towels?",
+            "Spanish": "¿Puedo tener toallas extra?",
+            "Transliteration": "Pweh-doh teh-ner toh-ah-yas eks-trah"
+        }
+    ],
+    "Expressions and Idioms": [
+        {
+            "English": "What's up?",
+            "Spanish": "¿Qué pasa?",
+            "Transliteration": "Keh pah-sah"
+        },
+        {
+            "English": "No problem",
+            "Spanish": "No hay problema",
+            "Transliteration": "No ay pro-bleh-mah"
+        },
+        {
+            "English": "Take care",
+            "Spanish": "Cuídate",
+            "Transliteration": "Kwee-dah-teh"
+        },
+        {
+            "English": "Enjoy your meal",
+            "Spanish": "Buen provecho",
+            "Transliteration": "Bwen pro-veh-choh"
+        },
+        {
+            "English": "Have a good trip",
+            "Spanish": "Buen viaje",
+            "Transliteration": "Bwen vee-ah-heh"
+        },
+        {
+            "English": "See you soon",
+            "Spanish": "Hasta pronto",
+            "Transliteration": "Ah-stah prohn-toh"
+        },
+        {
+            "English": "I agree",
+            "Spanish": "Estoy de acuerdo",
+            "Transliteration": "Es-toy deh ah-kwer-doh"
+        },
+        {
+            "English": "I'm in a hurry",
+            "Spanish": "Tengo prisa",
+            "Transliteration": "Ten-goh pree-sah"
+        },
+        {
+            "English": "It's up to you",
+            "Spanish": "Depende de ti",
+            "Transliteration": "Deh-pen-deh deh tee"
+        },
+        {
+            "English": "Let's go",
+            "Spanish": "Vamos",
+            "Transliteration": "Bah-mohs"
+        }
+    ],
+    "Flirting": [
+        {
+            "English": "You look beautiful (to a woman)",
+            "Spanish": "Te ves hermosa",
+            "Transliteration": "Teh ves er-moh-sah"
+        },
+        {
+            "English": "You look handsome (to a man)",
+            "Spanish": "Te ves guapo",
+            "Transliteration": "Teh ves gwah-poh"
+        },
+        {
+            "English": "I love your smile",
+            "Spanish": "Me encanta tu sonrisa",
+            "Transliteration": "Me en-kan-tah too son-ree-sah"
+        },
+        {
+            "English": "Can I buy you a drink? (male speaker)",
+            "Spanish": "¿Puedo invitarte a una bebida?",
+            "Transliteration": "Pweh-doh een-vee-tar-teh ah oo-nah beh-bee-dah"
+        },
+        {
+            "English": "Can I buy you a drink? (female speaker)",
+            "Spanish": "¿Puedo invitarte a una bebida?",
+            "Transliteration": "Pweh-doh een-vee-tar-teh ah oo-nah beh-bee-dah"
+        },
+        {
+            "English": "Do you want to grab coffee sometime?",
+            "Spanish": "¿Quieres tomar un café algún día?",
+            "Transliteration": "Kyeh-res toh-mar oon kah-feh al-goon dee-ah"
+        },
+        {
+            "English": "I really enjoy talking with you",
+            "Spanish": "Disfruto mucho hablando contigo",
+            "Transliteration": "Dees-froo-toh moo-choh ah-blahn-doh con-tee-goh"
+        },
+        {
+            "English": "You have beautiful eyes",
+            "Spanish": "Tienes ojos hermosos",
+            "Transliteration": "Tyeh-nes oh-hos er-moh-sos"
+        },
+        {
+            "English": "You make me laugh",
+            "Spanish": "Me haces reír",
+            "Transliteration": "Meh ah-ses reh-eer"
+        },
+        {
+            "English": "Can I get your number?",
+            "Spanish": "¿Me das tu número?",
+            "Transliteration": "Meh dahs too noo-meh-roh"
+        }
+    ]
+}

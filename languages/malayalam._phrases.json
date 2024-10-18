@@ -1,0 +1,676 @@
+{
+  "Greetings and Introductions": [
+    {
+      "English": "Hello / Hi",
+      "Malayalam": "നമസ്കാരം",
+      "Transliteration": "Namaskāram"
+    },
+    {
+      "English": "Good morning",
+      "Malayalam": "സുപ്രഭാതം",
+      "Transliteration": "Suprabhātam"
+    },
+    {
+      "English": "Good afternoon",
+      "Malayalam": "ഗുഡ്ഡാഫ്റ്റർനൂൺ",
+      "Transliteration": "Good Afternoon"
+    },
+    {
+      "English": "Good evening",
+      "Malayalam": "ശുഭസന്ധ്യ",
+      "Transliteration": "Śubha sandhya"
+    },
+    {
+      "English": "How are you?",
+      "Malayalam": "സുഖമാണോ?",
+      "Transliteration": "Sukhamāno?"
+    },
+    {
+      "English": "I'm fine, thank you",
+      "Malayalam": "എനിക്ക് സുഖം, നന്ദി",
+      "Transliteration": "Enikku sukham, nandi"
+    },
+    {
+      "English": "What is your name?",
+      "Malayalam": "നിങ്ങളുടെ പേര് എന്താണ്?",
+      "Transliteration": "Ningalude pēr entāṇ?"
+    },
+    {
+      "English": "My name is...",
+      "Malayalam": "എന്റെ പേര്...",
+      "Transliteration": "Ente pēr..."
+    },
+    {
+      "English": "Nice to meet you",
+      "Malayalam": "നിങ്ങളെ കാണാൻ സന്തോഷം",
+      "Transliteration": "Ningale kāṇān santōṣam"
+    },
+    {
+      "English": "Please",
+      "Malayalam": "ദയവായി",
+      "Transliteration": "Dayavāyi"
+    },
+    {
+      "English": "Thank you",
+      "Malayalam": "നന്ദി",
+      "Transliteration": "Nandi"
+    },
+    {
+      "English": "You're welcome",
+      "Malayalam": "സ്വാഗതം",
+      "Transliteration": "Svāgatam"
+    },
+    {
+      "English": "Yes",
+      "Malayalam": "അതെ",
+      "Transliteration": "Athe"
+    },
+    {
+      "English": "No",
+      "Malayalam": "ഇല്ല",
+      "Transliteration": "Illa"
+    },
+    {
+      "English": "Excuse me",
+      "Malayalam": "ക്ഷമിക്കണം",
+      "Transliteration": "Kshamikkanam"
+    },
+    {
+      "English": "I'm sorry",
+      "Malayalam": "എനിക്ക് ക്ഷമിക്കണം",
+      "Transliteration": "Enikku kshamikkanam"
+    },
+    {
+      "English": "Goodbye",
+      "Malayalam": "വിട",
+      "Transliteration": "Vida"
+    },
+    {
+      "English": "See you later",
+      "Malayalam": "പിന്നെ കാണാം",
+      "Transliteration": "Pinne kāṇām"
+    }
+  ],
+  "Numbers and Counting": [
+    {
+      "English": "One",
+      "Malayalam": "ഒന്ന്",
+      "Transliteration": "Onnu"
+    },
+    {
+      "English": "Two",
+      "Malayalam": "രണ്ട്",
+      "Transliteration": "Randu"
+    },
+    {
+      "English": "Three",
+      "Malayalam": "മൂന്ന്",
+      "Transliteration": "Moonnu"
+    },
+    {
+      "English": "Four",
+      "Malayalam": "നാല്",
+      "Transliteration": "Naal"
+    },
+    {
+      "English": "Five",
+      "Malayalam": "അഞ്ച്",
+      "Transliteration": "Anchu"
+    },
+    {
+      "English": "Six",
+      "Malayalam": "ആറ്",
+      "Transliteration": "Aaru"
+    },
+    {
+      "English": "Seven",
+      "Malayalam": "ഏഴ്",
+      "Transliteration": "Ezhu"
+    },
+    {
+      "English": "Eight",
+      "Malayalam": "എട്ട്",
+      "Transliteration": "Ettu"
+    },
+    {
+      "English": "Nine",
+      "Malayalam": "ഒമ്പത്",
+      "Transliteration": "Onpathu"
+    },
+    {
+      "English": "Ten",
+      "Malayalam": "പത്ത്",
+      "Transliteration": "Pathu"
+    }
+  ],
+  "Days and Time": [
+    {
+      "English": "Monday",
+      "Malayalam": "തിങ്കൾ",
+      "Transliteration": "Thinkal"
+    },
+    {
+      "English": "Tuesday",
+      "Malayalam": "ചൊവ്വ",
+      "Transliteration": "Chovva"
+    },
+    {
+      "English": "Wednesday",
+      "Malayalam": "ബുധൻ",
+      "Transliteration": "Budhan"
+    },
+    {
+      "English": "Thursday",
+      "Malayalam": "വ്യാഴം",
+      "Transliteration": "Vyazham"
+    },
+    {
+      "English": "Friday",
+      "Malayalam": "വെള്ളി",
+      "Transliteration": "Velli"
+    },
+    {
+      "English": "Saturday",
+      "Malayalam": "ശനി",
+      "Transliteration": "Shani"
+    },
+    {
+      "English": "Sunday",
+      "Malayalam": "ഞായർ",
+      "Transliteration": "Nyayar"
+    },
+    {
+      "English": "Today",
+      "Malayalam": "ഇന്ന്",
+      "Transliteration": "Innu"
+    },
+    {
+      "English": "Tomorrow",
+      "Malayalam": "നാളെ",
+      "Transliteration": "Naale"
+    },
+    {
+      "English": "Yesterday",
+      "Malayalam": "ഇന്നലെ",
+      "Transliteration": "Innale"
+    },
+    {
+      "English": "Now",
+      "Malayalam": "ഇപ്പോൾ",
+      "Transliteration": "Ippol"
+    },
+    {
+      "English": "Later",
+      "Malayalam": "പിന്നീട്",
+      "Transliteration": "Pinneedu"
+    }
+  ],
+  "Directions and Places": [
+    {
+      "English": "Where is...?",
+      "Malayalam": "... എവിടെയാണ്?",
+      "Transliteration": "... evideyayanu?"
+    },
+    {
+      "English": "Left",
+      "Malayalam": "ഇടത്",
+      "Transliteration": "Idathu"
+    },
+    {
+      "English": "Right",
+      "Malayalam": "വലത്",
+      "Transliteration": "Valathu"
+    },
+    {
+      "English": "Straight ahead",
+      "Malayalam": "നേരെ മുമ്പ്",
+      "Transliteration": "Nere mumpu"
+    },
+    {
+      "English": "Near",
+      "Malayalam": "അടുത്ത്",
+      "Transliteration": "Aduthu"
+    },
+    {
+      "English": "Far",
+      "Malayalam": "ദൂരെ",
+      "Transliteration": "Doore"
+    },
+    {
+      "English": "Hospital",
+      "Malayalam": "ആശുപത്രി",
+      "Transliteration": "Ashupathri"
+    },
+    {
+      "English": "Police station",
+      "Malayalam": "പോലീസ് സ്റ്റേഷൻ",
+      "Transliteration": "Police Station"
+    },
+    {
+      "English": "Bank",
+      "Malayalam": "ബാങ്ക്",
+      "Transliteration": "Bank"
+    },
+    {
+      "English": "Restaurant",
+      "Malayalam": "റസ്റ്റോറന്റ്",
+      "Transliteration": "Restaurant"
+    }
+  ],
+  "Food and Dining": [
+    {
+      "English": "Breakfast",
+      "Malayalam": "പ്രഭാതഭക്ഷണം",
+      "Transliteration": "Prabhātha bhakshanam"
+    },
+    {
+      "English": "Lunch",
+      "Malayalam": "ഉച്ചഭക്ഷണം",
+      "Transliteration": "Uchha bhakshanam"
+    },
+    {
+      "English": "Dinner",
+      "Malayalam": "രാത്രിഭക്ഷണം",
+      "Transliteration": "Rāthri bhakshanam"
+    },
+    {
+      "English": "Water",
+      "Malayalam": "വെള്ളം",
+      "Transliteration": "Vellam"
+    },
+    {
+      "English": "Tea",
+      "Malayalam": "ചായ",
+      "Transliteration": "Chāya"
+    },
+    {
+      "English": "Coffee",
+      "Malayalam": "കാപ്പി",
+      "Transliteration": "Kāppi"
+    },
+    {
+      "English": "I am vegetarian",
+      "Malayalam": "ഞാൻ ശാകാഹാരി ആണ്",
+      "Transliteration": "Njān shākāhāri āṇ"
+    },
+    {
+      "English": "The bill, please",
+      "Malayalam": "ബിൽ, ദയവായി",
+      "Transliteration": "Bill, dayavāyi"
+    },
+    {
+      "English": "Delicious",
+      "Malayalam": "രുചികരം",
+      "Transliteration": "Ruchikaram"
+    },
+    {
+      "English": "Cheers!",
+      "Malayalam": "സന്തോഷത്തോടെ!",
+      "Transliteration": "Santhōshathōtte"
+    }
+  ],
+  "Shopping and Money": [
+    {
+      "English": "How much is this?",
+      "Malayalam": "ഇതിന്റെ വില എത്രയാണ്?",
+      "Transliteration": "Itinte vila etrayāṇ?"
+    },
+    {
+      "English": "Expensive",
+      "Malayalam": "വില കൂടിയ",
+      "Transliteration": "Vila koodiya"
+    },
+    {
+      "English": "Cheap",
+      "Malayalam": "വില കുറവ്",
+      "Transliteration": "Vila kurav"
+    },
+    {
+      "English": "I would like to buy...",
+      "Malayalam": "എനിക്ക് വാങ്ങാനുണ്ട്...",
+      "Transliteration": "Enikku vāṅgānundu..."
+    },
+    {
+      "English": "Do you accept credit cards?",
+      "Malayalam": "നിങ്ങൾ ക്രെഡിറ്റ് കാർഡുകൾ സ്വീകരിക്കുന്നുണ്ടോ?",
+      "Transliteration": "Ningal credit cardukal sweekarikkunundo?"
+    },
+    {
+      "English": "Money",
+      "Malayalam": "പണം",
+      "Transliteration": "Paṇam"
+    },
+    {
+      "English": "Where is an ATM?",
+      "Malayalam": "എടിഎം എവിടെയാണ്?",
+      "Transliteration": "ATM evideyayanu?"
+    },
+    {
+      "English": "Receipt",
+      "Malayalam": "രസീത്",
+      "Transliteration": "Raseeth"
+    },
+    {
+      "English": "Change",
+      "Malayalam": "മാറ്റം",
+      "Transliteration": "Māttam"
+    },
+    {
+      "English": "I am just looking",
+      "Malayalam": "ഞാൻ നോക്കുകയല്ല",
+      "Transliteration": "Njān nōkkukayalla"
+    }
+  ],
+  "Emergency and Health": [
+    {
+      "English": "Help!",
+      "Malayalam": "സഹായിക്കൂ!",
+      "Transliteration": "Sahāyikku!"
+    },
+    {
+      "English": "Call the police",
+      "Malayalam": "പോലീസിനെ വിളിക്കൂ",
+      "Transliteration": "Police-ne viḷikku"
+    },
+    {
+      "English": "I need a doctor",
+      "Malayalam": "എനിക്ക് ഒരു ഡോക്ടർ വേണം",
+      "Transliteration": "Enikku oru doctor vēṇam"
+    },
+    {
+      "English": "I'm sick",
+      "Malayalam": "എനിക്ക് അസുഖം ആണ്",
+      "Transliteration": "Enikku asukham āṇ"
+    },
+    {
+      "English": "Where is the hospital?",
+      "Malayalam": "ആശുപത്രി എവിടെയാണ്?",
+      "Transliteration": "Ashupathri evideyayanu?"
+    },
+    {
+      "English": "It's an emergency",
+      "Malayalam": "ഇത് ഒരു അടിയന്തരാവസ്ഥയാണ്",
+      "Transliteration": "Ithu oru aḍiyantharāvasthayāṇ"
+    },
+    {
+      "English": "I am lost",
+      "Malayalam": "ഞാൻ വഴി തെറ്റി",
+      "Transliteration": "Njān vazhi thetti"
+    },
+    {
+      "English": "I need help",
+      "Malayalam": "എനിക്ക് സഹായം വേണം",
+      "Transliteration": "Enikku sahāyam vēṇam"
+    },
+    {
+      "English": "Fire!",
+      "Malayalam": "തീ!",
+      "Transliteration": "Thee!"
+    },
+    {
+      "English": "Stop!",
+      "Malayalam": "നിർത്തൂ!",
+      "Transliteration": "Nirthu!"
+    }
+  ],
+  "Basic Conversations": [
+    {
+      "English": "Do you speak English?",
+      "Malayalam": "നിങ്ങൾ ഇംഗ്ലീഷ് സംസാരിക്കുമോ?",
+      "Transliteration": "Ningal English samsārikkumo?"
+    },
+    {
+      "English": "I don't understand",
+      "Malayalam": "എനിക്ക് മനസ്സിലാകുന്നില്ല",
+      "Transliteration": "Enikku manassilākkunnilla"
+    },
+    {
+      "English": "Please speak slowly",
+      "Malayalam": "ദയവായി മന്ദഗതിയിൽ സംസാരിക്കുക",
+      "Transliteration": "Dayavāyi mandagathiyil samsārikkuka"
+    },
+    {
+      "English": "Can you repeat that?",
+      "Malayalam": "ദയവായി അത് ആവർത്തിക്കാമോ?",
+      "Transliteration": "Dayavāyi athu āvarthikkāmo?"
+    },
+    {
+      "English": "What does this mean?",
+      "Malayalam": "ഇതിന്റെ അർത്ഥം എന്താണ്?",
+      "Transliteration": "Itinte artham entāṇ?"
+    },
+    {
+      "English": "I like it",
+      "Malayalam": "എനിക്ക് ഇത് ഇഷ്ടമാണ്",
+      "Transliteration": "Enikku ithu ishtamāṇ"
+    },
+    {
+      "English": "I don't like it",
+      "Malayalam": "എനിക്ക് ഇത് ഇഷ്ടമില്ല",
+      "Transliteration": "Enikku ithu ishtamilla"
+    },
+    {
+      "English": "I'm sorry",
+      "Malayalam": "എനിക്ക് ക്ഷമിക്കണം",
+      "Transliteration": "Enikku kshamikkanam"
+    },
+    {
+      "English": "What time is it?",
+      "Malayalam": "എത്ര മണിക്കൂറായി?",
+      "Transliteration": "Ethra maṇikkurāyi?"
+    },
+    {
+      "English": "Where are you from?",
+      "Malayalam": "നിങ്ങൾ എവിടെ നിന്ന് ആണ്?",
+      "Transliteration": "Ningal evide ninn āṇ?"
+    }
+  ],
+  "Transportation": [
+    {
+      "English": "Where is the bus station?",
+      "Malayalam": "ബസ് സ്റ്റേഷൻ എവിടെയാണ്?",
+      "Transliteration": "Bus station evideyayanu?"
+    },
+    {
+      "English": "I need a taxi",
+      "Malayalam": "എനിക്ക് ഒരു ടാക്‌സി വേണം",
+      "Transliteration": "Enikku oru taxi vēṇam"
+    },
+    {
+      "English": "How much is a ticket to...?",
+      "Malayalam": "...ലെ ടിക്കറ്റ് വില എത്രയാണ്?",
+      "Transliteration": "...le ticket vila etrayāṇ?"
+    },
+    {
+      "English": "Where does this train go?",
+      "Malayalam": "ഈ ട്രെയിൻ എവിടേക്കാണ് പോകുന്നത്?",
+      "Transliteration": "Ee train evidekāṇ pōkunnathu?"
+    },
+    {
+      "English": "I want to go to...",
+      "Malayalam": "എനിക്ക് ... പോകണം",
+      "Transliteration": "Enikku ... pōkaṇam"
+    },
+    {
+      "English": "When does it arrive?",
+      "Malayalam": "ഇത് എപ്പോഴാണ് എത്തുന്നത്?",
+      "Transliteration": "Ithu eppōzhāṇ ethunnathu?"
+    },
+    {
+      "English": "Departure",
+      "Malayalam": "പുറപ്പാട്",
+      "Transliteration": "Puṟappāḍu"
+    },
+    {
+      "English": "Arrival",
+      "Malayalam": "എത്തിക്കൽ",
+      "Transliteration": "Ethikkal"
+    },
+    {
+      "English": "Ticket",
+      "Malayalam": "ടിക്കറ്റ്",
+      "Transliteration": "Ticket"
+    },
+    {
+      "English": "Platform",
+      "Malayalam": "പ്ലാറ്റ്ഫോം",
+      "Transliteration": "Platform"
+    }
+  ],
+  "Accommodation": [
+    {
+      "English": "Do you have any vacancies?",
+      "Malayalam": "ഒരുപാട് മുറികൾ ഉണ്ടോ?",
+      "Transliteration": "Orupaadu murikal undo?"
+    },
+    {
+      "English": "I have a reservation",
+      "Malayalam": "എനിക്ക് ബുക്ക് ചെയ്തിട്ടുണ്ട്",
+      "Transliteration": "Enikku book cheythittundu"
+    },
+    {
+      "English": "How much is a room per night?",
+      "Malayalam": "ഒരു മുറിയുടെ ഒരു രാത്രി വില എത്രയാണ്?",
+      "Transliteration": "Oru muriyude oru rāthri vila etrayāṇ?"
+    },
+    {
+      "English": "Can I see the room?",
+      "Malayalam": "ഞാൻ മുറി കാണാമോ?",
+      "Transliteration": "Njān muri kāṇāmo?"
+    },
+    {
+      "English": "Key",
+      "Malayalam": "താക്കോൽ",
+      "Transliteration": "Thākkōl"
+    },
+    {
+      "English": "Bathroom",
+      "Malayalam": "കുളിമുറി",
+      "Transliteration": "Kuḷimuri"
+    },
+    {
+      "English": "Is breakfast included?",
+      "Malayalam": "പ്രഭാതഭക്ഷണം ഉൾപ്പെടുന്നുണ്ടോ?",
+      "Transliteration": "Prabhāthabhakshanam uḷpeṭunnundo?"
+    },
+    {
+      "English": "I will stay for ... nights",
+      "Malayalam": "ഞാൻ ... രാത്രി താമസിക്കും",
+      "Transliteration": "Njān ... rāthri thāmasikkum"
+    },
+    {
+      "English": "Check-out time",
+      "Malayalam": "ചെക്കൗട്ട് സമയം",
+      "Transliteration": "Checkout samayam"
+    },
+    {
+      "English": "Can I have extra towels?",
+      "Malayalam": "കൂടുതൽ തുണിത്തൂവാൽ കിട്ടുമോ?",
+      "Transliteration": "Kooduthal thuṇiththūvāl kiṭṭumo?"
+    }
+  ],
+  "Expressions and Idioms": [
+    {
+      "English": "What's up?",
+      "Malayalam": "എന്തുണ്ട്?",
+      "Transliteration": "Enthundu?"
+    },
+    {
+      "English": "No problem",
+      "Malayalam": "പ്രശ്നം ഇല്ല",
+      "Transliteration": "Prashnam illa"
+    },
+    {
+      "English": "Take care",
+      "Malayalam": "ശ്രദ്ധിക്കണം",
+      "Transliteration": "Shraddhikkanam"
+    },
+    {
+      "English": "Enjoy your meal",
+      "Malayalam": "ഭക്ഷണം ആസ്വദിക്കൂ",
+      "Transliteration": "Bhakshanam āsvadhikku"
+    },
+    {
+      "English": "Have a good trip",
+      "Malayalam": "നല്ല യാത്ര",
+      "Transliteration": "Nalla yāthra"
+    },
+    {
+      "English": "See you soon",
+      "Malayalam": "വേഗത്തിൽ കാണാം",
+      "Transliteration": "Vēgathil kāṇām"
+    },
+    {
+      "English": "I agree",
+      "Malayalam": "എനിക്ക് സമ്മതം",
+      "Transliteration": "Enikku sammatham"
+    },
+    {
+      "English": "I'm in a hurry",
+      "Malayalam": "എനിക്ക് അപകടം",
+      "Transliteration": "Enikku apagadam"
+    },
+    {
+      "English": "It's up to you",
+      "Malayalam": "അത് നിങ്ങളുടെ വിഷയം",
+      "Transliteration": "Athu ningalude vishayam"
+    },
+    {
+      "English": "Let's go",
+      "Malayalam": "പോകാം",
+      "Transliteration": "Pōkām"
+    }
+  ],
+  "Flirting": [
+    {
+      "English": "You look beautiful (to a woman)",
+      "Malayalam": "നിങ്ങൾ മനോഹരമാണ്",
+      "Transliteration": "Ningal manōharamāṇ"
+    },
+    {
+      "English": "You look handsome (to a man)",
+      "Malayalam": "നിങ്ങൾ സുന്ദരനാണ്",
+      "Transliteration": "Ningal sundaranāṇ"
+    },
+    {
+      "English": "I love your smile",
+      "Malayalam": "നിങ്ങളുടെ പുഞ്ചിരി എനിക്ക് ഇഷ്ടമാണ്",
+      "Transliteration": "Ningalude punchiri enikku ishtamāṇ"
+    },
+    {
+      "English": "Can I buy you a drink? (male speaker)",
+      "Malayalam": "ഞാൻ നിങ്ങൾക്ക് ഒരു പാനീയം വാങ്ങിക്കുതാമോ?",
+      "Transliteration": "Njān ningalkku oru pāneeyam vāṅgikkutāmo?"
+    },
+    {
+      "English": "Can I buy you a drink? (female speaker)",
+      "Malayalam": "ഞാൻ നിങ്ങൾക്ക് ഒരു പാനീയം വാങ്ങിക്കുതാമോ?",
+      "Transliteration": "Njān ningalkku oru pāneeyam vāṅgikkutāmo?"
+    },
+    {
+      "English": "Do you want to grab coffee sometime?",
+      "Malayalam": "ഒരിക്കലെങ്കിലും നമ്മൾ ഒരുമിച്ച് കോഫി കുടിക്കാമോ?",
+      "Transliteration": "Orikkalengilum nammal orumichu kōphi kuḍikkāmo?"
+    },
+    {
+      "English": "I really enjoy talking with you",
+      "Malayalam": "നിങ്ങളോട് സംസാരിക്കുന്നത് എനിക്ക് വളരെ ഇഷ്ടമാണ്",
+      "Transliteration": "Ningalōṭe samsārikkunnathu enikku valare ishtamāṇ"
+    },
+    {
+      "English": "You have beautiful eyes",
+      "Malayalam": "നിങ്ങൾക്ക് മനോഹരമായ കണ്ണുകളുണ്ട്",
+      "Transliteration": "Ningalkku manōharamāya kaṇṇukaḷuṇḍu"
+    },
+    {
+      "English": "You make me laugh",
+      "Malayalam": "നിങ്ങൾ എന്നെ ചിരിപ്പിക്കുന്നു",
+      "Transliteration": "Ningal enne chirippikkunnu"
+    },
+    {
+      "English": "Can I get your number?",
+      "Malayalam": "എനിക്ക് നിങ്ങളുടെ നമ്പർ ലഭിക്കുമോ?",
+      "Transliteration": "Enikku ningalude number labhikkumo?"
+    }
+  ]
+}

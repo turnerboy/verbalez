@@ -1,0 +1,672 @@
+{
+    "Greetings and Introductions": [
+      {
+        "English": "Hello / Hi",
+        "Farsi": "سلام",
+        "Transliteration": "Salām"
+      },
+      {
+        "English": "Good morning",
+        "Farsi": "صبح بخیر",
+        "Transliteration": "Sobh bekheyr"
+      },
+      {
+        "English": "Good afternoon",
+        "Farsi": "بعد از ظهر بخیر",
+        "Transliteration": "Ba'ad az zohr bekheyr"
+      },
+      {
+        "English": "Good evening",
+        "Farsi": "عصر بخیر",
+        "Transliteration": "Asr bekheyr"
+      },
+      {
+        "English": "How are you?",
+        "Farsi": "حالتان چطور است؟",
+        "Transliteration": "Hāletān chetor ast?"
+      },
+      {
+        "English": "I'm fine, thank you",
+        "Farsi": "من خوبم، ممنون",
+        "Transliteration": "Man khūbam, mamnūn"
+      },
+      {
+        "English": "What is your name?",
+        "Farsi": "اسم شما چیست؟",
+        "Transliteration": "Esme shomā chist?"
+      },
+      {
+        "English": "My name is...",
+        "Farsi": "اسم من ... است",
+        "Transliteration": "Esme man ... ast"
+      },
+      {
+        "English": "Nice to meet you",
+        "Farsi": "از ملاقات شما خوشحالم",
+        "Transliteration": "Az molāghāte shomā khoshhālam"
+      },
+      {
+        "English": "Please",
+        "Farsi": "لطفاً",
+        "Transliteration": "Lotfan"
+      },
+      {
+        "English": "Thank you",
+        "Farsi": "متشکرم",
+        "Transliteration": "Motashakkeram"
+      },
+      {
+        "English": "You're welcome",
+        "Farsi": "خواهش می‌کنم",
+        "Transliteration": "Khāhesh mikonam"
+      },
+      {
+        "English": "Yes",
+        "Farsi": "بله",
+        "Transliteration": "Baleh"
+      },
+      {
+        "English": "No",
+        "Farsi": "خیر",
+        "Transliteration": "Kheyr"
+      },
+      {
+        "English": "Excuse me",
+        "Farsi": "ببخشید",
+        "Transliteration": "Bebakhshid"
+      },
+      {
+        "English": "I'm sorry",
+        "Farsi": "متاسفم",
+        "Transliteration": "Mote'assefam"
+      },
+      {
+        "English": "Goodbye",
+        "Farsi": "خداحافظ",
+        "Transliteration": "Khodā hāfez"
+      },
+      {
+        "English": "See you later",
+        "Farsi": "بعداً می‌بینمتان",
+        "Transliteration": "Ba'adan mibinametān"
+      }
+    ],
+    "Numbers and Counting": [
+      {
+        "English": "One",
+        "Farsi": "یک",
+        "Transliteration": "Yek"
+      },
+      {
+        "English": "Two",
+        "Farsi": "دو",
+        "Transliteration": "Do"
+      },
+      {
+        "English": "Three",
+        "Farsi": "سه",
+        "Transliteration": "Seh"
+      },
+      {
+        "English": "Four",
+        "Farsi": "چهار",
+        "Transliteration": "Chahār"
+      },
+      {
+        "English": "Five",
+        "Farsi": "پنج",
+        "Transliteration": "Panj"
+      },
+      {
+        "English": "Six",
+        "Farsi": "شش",
+        "Transliteration": "Shesh"
+      },
+      {
+        "English": "Seven",
+        "Farsi": "هفت",
+        "Transliteration": "Haft"
+      },
+      {
+        "English": "Eight",
+        "Farsi": "هشت",
+        "Transliteration": "Hasht"
+      },
+      {
+        "English": "Nine",
+        "Farsi": "نه",
+        "Transliteration": "Noh"
+      },
+      {
+        "English": "Ten",
+        "Farsi": "ده",
+        "Transliteration": "Dah"
+      }
+    ],
+    "Days and Time": [
+      {
+        "English": "Monday",
+        "Farsi": "دوشنبه",
+        "Transliteration": "Doshanbeh"
+      },
+      {
+        "English": "Tuesday",
+        "Farsi": "سه‌شنبه",
+        "Transliteration": "Seshanbeh"
+      },
+      {
+        "English": "Wednesday",
+        "Farsi": "چهارشنبه",
+        "Transliteration": "Chahārshanbeh"
+      },
+      {
+        "English": "Thursday",
+        "Farsi": "پنج‌شنبه",
+        "Transliteration": "Panjshanbeh"
+      },
+      {
+        "English": "Friday",
+        "Farsi": "جمعه",
+        "Transliteration": "Jomeh"
+      },
+      {
+        "English": "Saturday",
+        "Farsi": "شنبه",
+        "Transliteration": "Shanbeh"
+      },
+      {
+        "English": "Sunday",
+        "Farsi": "یکشنبه",
+        "Transliteration": "Yekshanbeh"
+      },
+      {
+        "English": "Today",
+        "Farsi": "امروز",
+        "Transliteration": "Emruz"
+      },
+      {
+        "English": "Tomorrow",
+        "Farsi": "فردا",
+        "Transliteration": "Fardā"
+      },
+      {
+        "English": "Yesterday",
+        "Farsi": "دیروز",
+        "Transliteration": "Diruz"
+      },
+      {
+        "English": "Now",
+        "Farsi": "حالا",
+        "Transliteration": "Hālā"
+      },
+      {
+        "English": "Later",
+        "Farsi": "بعداً",
+        "Transliteration": "Ba'adan"
+      }
+    ],
+    "Directions and Places": [
+      {
+        "English": "Where is...?",
+        "Farsi": "... کجاست؟",
+        "Transliteration": "... kojāst?"
+      },
+      {
+        "English": "Left",
+        "Farsi": "چپ",
+        "Transliteration": "Chap"
+      },
+      {
+        "English": "Right",
+        "Farsi": "راست",
+        "Transliteration": "Rāst"
+      },
+      {
+        "English": "Straight ahead",
+        "Farsi": "مستقیم جلو",
+        "Transliteration": "Mostaghim jelō"
+      },
+      {
+        "English": "Near",
+        "Farsi": "نزدیک",
+        "Transliteration": "Nazdik"
+      },
+      {
+        "English": "Far",
+        "Farsi": "دور",
+        "Transliteration": "Dūr"
+      },
+      {
+        "English": "Hospital",
+        "Farsi": "بیمارستان",
+        "Transliteration": "Bimārestān"
+      },
+      {
+        "English": "Police station",
+        "Farsi": "ایستگاه پلیس",
+        "Transliteration": "Istgāhe polis"
+      },
+      {
+        "English": "Bank",
+        "Farsi": "بانک",
+        "Transliteration": "Bānk"
+      },
+      {
+        "English": "Restaurant",
+        "Farsi": "رستوران",
+        "Transliteration": "Resturān"
+      }
+    ],
+    "Food and Dining": [
+      {
+        "English": "Breakfast",
+        "Farsi": "صبحانه",
+        "Transliteration": "Sobhāneh"
+      },
+      {
+        "English": "Lunch",
+        "Farsi": "ناهار",
+        "Transliteration": "Nāhār"
+      },
+      {
+        "English": "Dinner",
+        "Farsi": "شام",
+        "Transliteration": "Shām"
+      },
+      {
+        "English": "Water",
+        "Farsi": "آب",
+        "Transliteration": "Āb"
+      },
+      {
+        "English": "Tea",
+        "Farsi": "چای",
+        "Transliteration": "Chāy"
+      },
+      {
+        "English": "Coffee",
+        "Farsi": "قهوه",
+        "Transliteration": "Ghahveh"
+      },
+      {
+        "English": "I am vegetarian",
+        "Farsi": "من گیاهخوار هستم",
+        "Transliteration": "Man giyāhkhār hastam"
+      },
+      {
+        "English": "The bill, please",
+        "Farsi": "صورت‌حساب لطفاً",
+        "Transliteration": "Sourat-hesāb lotfan"
+      },
+      {
+        "English": "Delicious",
+        "Farsi": "خوشمزه",
+        "Transliteration": "Khoshmazzeh"
+      },
+      {
+        "English": "Cheers!",
+        "Farsi": "به سلامتی!",
+        "Transliteration": "Be salāmati!"
+      }
+    ],
+    "Shopping and Money": [
+      {
+        "English": "How much is this?",
+        "Farsi": "قیمت این چقدر است؟",
+        "Transliteration": "Gheymate in cheghadr ast?"
+      },
+      {
+        "English": "Expensive",
+        "Farsi": "گران",
+        "Transliteration": "Gerān"
+      },
+      {
+        "English": "Cheap",
+        "Farsi": "ارزان",
+        "Transliteration": "Arzān"
+      },
+      {
+        "English": "I would like to buy...",
+        "Farsi": "می‌خواهم ... بخرم",
+        "Transliteration": "Mikhāham ... bekharam"
+      },
+      {
+        "English": "Do you accept credit cards?",
+        "Farsi": "آیا کارت اعتباری قبول می‌کنید؟",
+        "Transliteration": "Āyā kārte e'tebāri ghabul mikonid?"
+      },
+      {
+        "English": "Money",
+        "Farsi": "پول",
+        "Transliteration": "Pul"
+      },
+      {
+        "English": "Where is an ATM?",
+        "Farsi": "دستگاه خودپرداز کجاست؟",
+        "Transliteration": "Dastgāhe khodpardāz kojāst?"
+      },
+      {
+        "English": "Receipt",
+        "Farsi": "رسید",
+        "Transliteration": "Rasid"
+      },
+      {
+        "English": "Change",
+        "Farsi": "پول خرد",
+        "Transliteration": "Pule khord"
+      },
+      {
+        "English": "I am just looking",
+        "Farsi": "فقط دارم نگاه می‌کنم",
+        "Transliteration": "Faghat dāram negāh mikonam"
+      }
+    ],
+    "Emergency and Health": [
+      {
+        "English": "Help!",
+        "Farsi": "کمک!",
+        "Transliteration": "Komak!"
+      },
+      {
+        "English": "Call the police",
+        "Farsi": "پلیس را خبر کنید",
+        "Transliteration": "Polis rā khabar konid"
+      },
+      {
+        "English": "I need a doctor",
+        "Farsi": "من به دکتر نیاز دارم",
+        "Transliteration": "Man be doktor niyāz dāram"
+      },
+      {
+        "English": "I'm sick",
+        "Farsi": "من بیمارم",
+        "Transliteration": "Man bimāram"
+      },
+      {
+        "English": "Where is the hospital?",
+        "Farsi": "بیمارستان کجاست؟",
+        "Transliteration": "Bimārestān kojāst?"
+      },
+      {
+        "English": "It's an emergency",
+        "Farsi": "این یک مورد اضطراری است",
+        "Transliteration": "In yek morede ezterāri ast"
+      },
+      {
+        "English": "I am lost",
+        "Farsi": "من گم شده‌ام",
+        "Transliteration": "Man gom shode'am"
+      },
+      {
+        "English": "I need help",
+        "Farsi": "من کمک نیاز دارم",
+        "Transliteration": "Man komak niyāz dāram"
+      },
+      {
+        "English": "Fire!",
+        "Farsi": "آتش!",
+        "Transliteration": "Ātash!"
+      },
+      {
+        "English": "Stop!",
+        "Farsi": "ایست!",
+        "Transliteration": "Ist!"
+      }
+    ],
+    "Basic Conversations": [
+      {
+        "English": "Do you speak English?",
+        "Farsi": "آیا انگلیسی صحبت می‌کنید؟",
+        "Transliteration": "Āyā engelisi sohbat mikonid?"
+      },
+      {
+        "English": "I don't understand",
+        "Farsi": "من متوجه نمی‌شوم",
+        "Transliteration": "Man motevajjeh nemishavam"
+      },
+      {
+        "English": "Please speak slowly",
+        "Farsi": "لطفاً آهسته صحبت کنید",
+        "Transliteration": "Lotfan āhesteh sohbat konid"
+      },
+      {
+        "English": "Can you repeat that?",
+        "Farsi": "می‌توانید تکرار کنید؟",
+        "Transliteration": "Mitavānid tekrār konid?"
+      },
+      {
+        "English": "What does this mean?",
+        "Farsi": "این چه معنی دارد؟",
+        "Transliteration": "In che ma'ni dārad?"
+      },
+      {
+        "English": "I like it",
+        "Farsi": "من آن را دوست دارم",
+        "Transliteration": "Man ān rā dust dāram"
+      },
+      {
+        "English": "I don't like it",
+        "Farsi": "من آن را دوست ندارم",
+        "Transliteration": "Man ān rā dust nadāram"
+      },
+      {
+        "English": "I'm sorry",
+        "Farsi": "متاسفم",
+        "Transliteration": "Mote'assefam"
+      },
+      {
+        "English": "What time is it?",
+        "Farsi": "ساعت چند است؟",
+        "Transliteration": "Sā'at chand ast?"
+      },
+      {
+        "English": "Where are you from?",
+        "Farsi": "اهل کجا هستید؟",
+        "Transliteration": "Ahle kojā hastid?"
+      }
+    ],
+    "Transportation": [
+      {
+        "English": "Where is the bus station?",
+        "Farsi": "ایستگاه اتوبوس کجاست؟",
+        "Transliteration": "Istgāhe otobūs kojāst?"
+      },
+      {
+        "English": "I need a taxi",
+        "Farsi": "من یک تاکسی نیاز دارم",
+        "Transliteration": "Man yek tāksi niyāz dāram"
+      },
+      {
+        "English": "How much is a ticket to...?",
+        "Farsi": "بلیت به ... چقدر است؟",
+        "Transliteration": "Belite be ... cheghadr ast?"
+      },
+      {
+        "English": "Where does this train go?",
+        "Farsi": "این قطار به کجا می‌رود؟",
+        "Transliteration": "In ghatār be kojā miravad?"
+      },
+      {
+        "English": "I want to go to...",
+        "Farsi": "من می‌خواهم به ... بروم",
+        "Transliteration": "Man mikhāham be ... beravam"
+      },
+      {
+        "English": "When does it arrive?",
+        "Farsi": "چه زمانی می‌رسد؟",
+        "Transliteration": "Che zamāni miresad?"
+      },
+      {
+        "English": "Departure",
+        "Farsi": "حرکت",
+        "Transliteration": "Harekat"
+      },
+      {
+        "English": "Arrival",
+        "Farsi": "ورود",
+        "Transliteration": "Vorud"
+      },
+      {
+        "English": "Ticket",
+        "Farsi": "بلیت",
+        "Transliteration": "Belit"
+      },
+      {
+        "English": "Platform",
+        "Farsi": "سکو",
+        "Transliteration": "Sakkū"
+      }
+    ],
+    "Accommodation": [
+      {
+        "English": "Do you have any vacancies?",
+        "Farsi": "آیا اتاق خالی دارید؟",
+        "Transliteration": "Āyā otāqe khāli dārid?"
+      },
+      {
+        "English": "I have a reservation",
+        "Farsi": "من یک رزرو دارم",
+        "Transliteration": "Man yek rezerv dāram"
+      },
+      {
+        "English": "How much is a room per night?",
+        "Farsi": "هزینه هر شب اتاق چقدر است؟",
+        "Transliteration": "Hazineye har shab otāgh cheghadr ast?"
+      },
+      {
+        "English": "Can I see the room?",
+        "Farsi": "می‌توانم اتاق را ببینم؟",
+        "Transliteration": "Mitavānam otāgh rā bebinam?"
+      },
+      {
+        "English": "Key",
+        "Farsi": "کلید",
+        "Transliteration": "Kelid"
+      },
+      {
+        "English": "Bathroom",
+        "Farsi": "حمام",
+        "Transliteration": "Hammām"
+      },
+      {
+        "English": "Is breakfast included?",
+        "Farsi": "آیا صبحانه شامل می‌شود؟",
+        "Transliteration": "Āyā sobhāneh shāmel mishavad?"
+      },
+      {
+        "English": "I will stay for ... nights",
+        "Farsi": "من برای ... شب می‌مانم",
+        "Transliteration": "Man barāye ... shab mimānam"
+      },
+      {
+        "English": "Check-out time",
+        "Farsi": "زمان تخلیه اتاق",
+        "Transliteration": "Zamāne takhliye otāgh"
+      },
+      {
+        "English": "Can I have extra towels?",
+        "Farsi": "می‌توانم حوله اضافی داشته باشم؟",
+        "Transliteration": "Mitavānam holeye ezāfi dāshteh bāsham?"
+      }
+    ],
+    "Expressions and Idioms": [
+      {
+        "English": "What's up?",
+        "Farsi": "چه خبر؟",
+        "Transliteration": "Che khabar?"
+      },
+      {
+        "English": "No problem",
+        "Farsi": "مشکلی نیست",
+        "Transliteration": "Moshkeli nist"
+      },
+      {
+        "English": "Take care",
+        "Farsi": "مراقب خودتان باشید",
+        "Transliteration": "Morāghebe khodetān bāshid"
+      },
+      {
+        "English": "Enjoy your meal",
+        "Farsi": "نوش جان",
+        "Transliteration": "Nush-e jān"
+      },
+      {
+        "English": "Have a good trip",
+        "Farsi": "سفر بخیر",
+        "Transliteration": "Safar bekheyr"
+      },
+      {
+        "English": "See you soon",
+        "Farsi": "به زودی می‌بینمتان",
+        "Transliteration": "Be zudi mibinametān"
+      },
+      {
+        "English": "I agree",
+        "Farsi": "موافقم",
+        "Transliteration": "Movāfeqam"
+      },
+      {
+        "English": "I'm in a hurry",
+        "Farsi": "عجله دارم",
+        "Transliteration": "Ajale dāram"
+      },
+      {
+        "English": "It's up to you",
+        "Farsi": "به شما بستگی دارد",
+        "Transliteration": "Be shomā bastegi dārad"
+      },
+      {
+        "English": "Let's go",
+        "Farsi": "برویم",
+        "Transliteration": "Beravim"
+      }
+    ],
+    "Flirting": [
+      {
+        "English": "You look beautiful (to a woman)",
+        "Farsi": "شما زیبا به نظر می‌رسید",
+        "Transliteration": "Shomā zibā be nazar miresid"
+      },
+      {
+        "English": "You look handsome (to a man)",
+        "Farsi": "شما خوشتیپ به نظر می‌رسید",
+        "Transliteration": "Shomā khoshtip be nazar miresid"
+      },
+      {
+        "English": "I love your smile",
+        "Farsi": "لبخندتان را دوست دارم",
+        "Transliteration": "Labkhandetān rā dust dāram"
+      },
+      {
+        "English": "Can I buy you a drink?",
+        "Farsi": "می‌توانم برایتان نوشیدنی بخرم؟",
+        "Transliteration": "Mitavānam barāyetān nushidani bekharam?"
+      },
+      {
+        "English": "Do you want to grab coffee sometime?",
+        "Farsi": "مایلید زمانی قهوه‌ای بنوشیم؟",
+        "Transliteration": "Māyelid zamāni ghahve'i benushim?"
+      },
+      {
+        "English": "I really enjoy talking with you",
+        "Farsi": "از صحبت با شما واقعاً لذت می‌برم",
+        "Transliteration": "Az sohbat bā shomā vāqe'an lezzat mibaram"
+      },
+      {
+        "English": "You have beautiful eyes",
+        "Farsi": "چشمان زیبایی دارید",
+        "Transliteration": "Cheshmāne zibāyi dārid"
+      },
+      {
+        "English": "You make me laugh",
+        "Farsi": "شما من را می‌خندانید",
+        "Transliteration": "Shomā man rā mikhandānid"
+      },
+      {
+        "English": "Can I get your number?",
+        "Farsi": "می‌توانم شماره‌تان را داشته باشم؟",
+        "Transliteration": "Mitavānam shomāretān rā dāshteh bāsham?"
+      }
+    ]
+  }
+  
